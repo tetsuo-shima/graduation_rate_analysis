@@ -5,9 +5,15 @@ A key focus of this analysis is to understand how graduation rates and student o
 The analysis will involve:
 
 Loading and preparing the graduation rate data.
+
 Categorizing schools into Specialized, Core, and Charter types.
+
 Comparing the representation of key subgroups across these school types.
+
 Analyzing and visualizing the average graduation rates for 'All Students' and the selected subgroups in each school type.
+
 Exploring the distribution of student outcomes (diplomas, still enrolled, dropout, etc.) in different school types, including a localized analysis for Kings County.
+
 Discussing the key findings and drawing conclusions based on the data.
+
 This analysis seeks to provide a data-driven perspective on graduation trends and outcomes for diverse student populations within NYC high schools.
