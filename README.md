@@ -17,3 +17,5 @@ Exploring the distribution of student outcomes (diplomas, still enrolled, dropou
 Discussing the key findings and drawing conclusions based on the data.
 
 This analysis seeks to provide a data-driven perspective on graduation trends and outcomes for diverse student populations within NYC high schools.
+
+The CSV for this analysis can be downloaded from https://drive.google.com/file/d/1xd4_UyG7V7-LcOAImwU2rtJgwH66KPi6/view?usp=drive_link
