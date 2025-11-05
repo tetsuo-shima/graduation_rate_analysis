@@ -1,3 +1,5 @@
+The CSV for this analysis can be downloaded from https://drive.google.com/file/d/1xd4_UyG7V7-LcOAImwU2rtJgwH66KPi6/view?usp=drive_link
+
 This notebook presents an analysis of the 2020 Total Cohort graduation rates in New York City (NYC) high schools. The analysis aims to explore and compare graduation outcomes across different types of high schools in NYC: Specialized High Schools, Core High Schools, and Charter High Schools.
 
 A key focus of this analysis is to understand how graduation rates and student outcomes vary for specific subgroups of students, including Economically Disadvantaged students, Students with Disabilities, Homeless students, and students in Foster Care. By examining the representation of these subgroups in different school types and their respective graduation rates and post-secondary outcomes, we aim to shed light on potential disparities and gain insights into the educational landscape of NYC high schools.
@@ -18,4 +20,4 @@ Discussing the key findings and drawing conclusions based on the data.
 
 This analysis seeks to provide a data-driven perspective on graduation trends and outcomes for diverse student populations within NYC high schools.
 
-The CSV for this analysis can be downloaded from https://drive.google.com/file/d/1xd4_UyG7V7-LcOAImwU2rtJgwH66KPi6/view?usp=drive_link
+
