@@ -1,4 +1,4 @@
-The CSV for this analysis can be downloaded from https://drive.google.com/file/d/1xd4_UyG7V7-LcOAImwU2rtJgwH66KPi6/view?usp=drive_link
+The CSV for this analysis can be downloaded from https://drive.google.com/file/d/1xd4_UyG7V7-LcOAImwU2rtJgwH66KPi6/view?usp=drive_link.
 
 This notebook presents an analysis of the 2020 Total Cohort graduation rates in New York City (NYC) high schools. The analysis aims to explore and compare graduation outcomes across different types of high schools in NYC: Specialized High Schools, Core High Schools, and Charter High Schools.
 
